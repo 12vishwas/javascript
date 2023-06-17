@@ -1,6 +1,7 @@
 //non primitive data type
 
 //object- collection of key value pairs enclosed within {}
+//declaring functions with the help of object litreral
 var fruits = {
     'apple':'red',
     'mango':'yellow',
